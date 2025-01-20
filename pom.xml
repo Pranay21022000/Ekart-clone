@@ -152,12 +152,12 @@
     <repository>
       <id>maven-releases-1</id>
       <name>maven-releases-1</name>
-      <url>http://54.160.138.227:8085/nexus/repository/maven-releases-1/</url>
+      <url>http://54.167.47.104:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>maven-snapshots</id>
       <name>maven-snapshots-1</name>
-      <url>http://54.160.138.227:8085/nexus/repository/maven-snapshots-1/</url>
+      <url>http://54.167.47.104:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
